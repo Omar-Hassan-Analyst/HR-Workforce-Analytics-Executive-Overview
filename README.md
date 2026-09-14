@@ -6,7 +6,7 @@ An interactive **HR analytics dashboard** built with **Power BI**, providing a c
 
 ## 📊 Live Dashboard
 
-👉 **[View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjgwMGYzNzEtY2RlMy00ZmQ4LWIyNTctMjFmNmNjMjM5NTk1IiwidCI6IjA3M2U1ODhkLTI4NmMtNDAwNS04ZmYwLWYyYWMzYzhlYTRkMyJ9**  
+👉 **[View the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjgwMGYzNzEtY2RlMy00ZmQ4LWIyNTctMjFmNmNjMjM5NTk1IiwidCI6IjA3M2U1ODhkLTI4NmMtNDAwNS04ZmYwLWYyYWMzYzhlYTRkMyJ9)**  
 
 
 ---
@@ -16,8 +16,8 @@ An interactive **HR analytics dashboard** built with **Power BI**, providing a c
 ```text
 HR-Workforce-Analytics/
 │
-├── HR_Workforce_Data.csv          # Source dataset
-├── HR_Workforce_Analytics.pbix    # Power BI report file
+├── HR_Workforce_Analytics_Data.csv          # Source dataset
+├── HR_Workforcepbix    # Power BI report file
 ├── HR WORKFORCE.jpg               # Dashboard preview screenshot
 └── README.md
 ```
