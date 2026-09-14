@@ -105,7 +105,7 @@ git clone https://github.com/Omar-Hassan-Analyst/HR-Workforce-Analytics-Executiv
 
 ## 📷 Preview
 
-![HR WORKFORCE](./HR WORKFORCE.jpg)
+![HR WORKFORCE](https://github.com/Omar-Hassan-Analyst/HR-Workforce-Analytics-Executive-Overview/blob/main/HR%20WORKFORCE.jpg)
 
 ---
 
